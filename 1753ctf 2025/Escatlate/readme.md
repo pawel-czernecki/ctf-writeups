@@ -1,11 +1,20 @@
 ## Challenge
 
-**Title**
-WEB/MISC // 👴🏻 Vibe Coding
+**Title 1**
+WEB // 😺 Escatlate (flag #1)
 
-**Description**
-Turns out this is the way to go. AI codin' when you vibin'. Can you ask Zenek to call getFlag() function for you?
-🔗 https://vibe-coding-4659ccfb9951.1753ctf.com
+**Description 1**
+Look! Kitties! // careful, this app is resetting every 15 mintutes
+🔗 https://escatlate-52bc47e034fa.1753ctf.com
+💾 https://get.1753ctf.com/escatlate/src?s=tB81ISR3
+
+**Title 2**
+WEB // 🙀 Escatlate (flag #2)
+
+**Description 2**
+Look! More kitties! // careful, this app is resetting every 15 mintutes
+🔗 https://escatlate-52bc47e034fa.1753ctf.com
+💾 https://get.1753ctf.com/escatlate/src?s=tB81ISR3
 
 ## Solution (Flag 1)
 
