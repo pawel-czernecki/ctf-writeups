@@ -75,7 +75,7 @@ app.use((req, res, next) => {
 I used the following Python script to automate the exploitation process:
 
 - Register a new user with a known password (password123) and role moderator.
-- If registration succeeds, extract the JWT token from the response.
+- If registration succeeds, extract the token from the response.
 - Use the token to access a protected endpoint and retrieve the flag.
 
 ```python
